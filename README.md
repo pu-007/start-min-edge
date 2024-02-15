@@ -1,6 +1,6 @@
 # Start Microsoft Edge Minimized
 
-_a solution for saladict _
+*a solution for saladict*
 
 Run this script at startup by add the flowwing code to`C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\autostart.vbs`
 
