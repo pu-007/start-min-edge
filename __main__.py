@@ -18,9 +18,9 @@ subprocess.run(
 
 while True:
     try:
-        edge = gw.getWindowsWithTitle("start-min-edge - [InPrivate] - Microsoft​ Edge")[
-            0
-        ]
+        edge = gw.getWindowsWithTitle(
+            "C0BF384C333E479C9C01884375881FBC - [InPrivate] - Microsoft​ Edge"
+        )[0]
         edge.minimize()
         break
     except IndexError:
